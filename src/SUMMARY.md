@@ -1,3 +1,4 @@
 # Summary
 
-- [Home](aseic.md)
+- [Inicio](aseic.md)
+- [Representantes estudiantiles](personas.md)
