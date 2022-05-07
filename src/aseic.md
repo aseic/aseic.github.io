@@ -19,4 +19,4 @@ Finalmente, tenemos los siguientes medios de comunicación:
 - [Noticias Computadores](https://t.me/ce_tec) en Telegram
 - [Comunidad](https://tecdigital.tec.ac.cr/dotlrn/escuela/escuela.IDC/estudiantes.IDC/) en el TecDigital
 - [Página](https://www.facebook.com/TECComputadores) de Facebook
-- [Grupo estudiantil de Telegram](https://https://t.me/ComunidadCeTec)
+- [Grupo estudiantil](https://https://t.me/ComunidadCeTec) en Telegram
