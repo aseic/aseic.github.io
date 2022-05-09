@@ -5,5 +5,5 @@
 - [Procesos administrativos](procesos.md)
 - [Grupos estudiantiles](grupos_estudiantiles.md)
 - [Representación estudiantil](representacion_estudiantil.md)
-- [Actas de Junta Directiva](actas_jd.md)
-- [Actas de Consejo](actas_consejo.md)
+- [Sesiones de Junta Directiva](actas_jd.md)
+- [Sesiones de Consejo](actas_consejo.md)
