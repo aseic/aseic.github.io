@@ -17,3 +17,9 @@ Finalmente, tenemos los siguientes medios de difusión:
 - [Noticias Computadores](https://t.me/ce_tec) en Telegram
 - [Comunidad](https://tecdigital.tec.ac.cr/dotlrn/escuela/escuela.IDC/estudiantes.IDC/) en el TecDigital
 - [Página](https://www.facebook.com/TECComputadores) de Facebook
+
+# Contribuir con el proyecto
+
+Si desea contribuir al proyecto puede ver el código en la [organización de GitHub](https://github.com/aseic).
+
+También puede dejar sus comentarios en el [formulario de sugerencias](https://forms.gle/YDFFxy35NmMeKrTUA).
