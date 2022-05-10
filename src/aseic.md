@@ -18,7 +18,7 @@ Finalmente, tenemos los siguientes medios de difusión:
 - [Comunidad](https://tecdigital.tec.ac.cr/dotlrn/escuela/escuela.IDC/estudiantes.IDC/) en el TecDigital
 - [Página](https://www.facebook.com/TECComputadores) de Facebook
 
-# Contribuir con el proyecto
+# Contribuir al proyecto
 
 Si desea contribuir al proyecto puede ver el código en la [organización de GitHub](https://github.com/aseic).
 
