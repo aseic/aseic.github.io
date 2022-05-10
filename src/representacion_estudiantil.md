@@ -1,7 +1,7 @@
 # Representación estudiantil
 
 ## Junta Directiva
-La junta directiva para el año 2022 se conforma por las siguientes personas:
+La Junta Directiva para el año 2022 se conforma por las siguientes personas:
 
 - [Viviana Villalobos Valverde](https://t.me/Vivi1007) (Presidencia)
 - [Fabián Montero Villalobos](https://t.me/fabianmv) (Vicepresidencia)
