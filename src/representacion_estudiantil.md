@@ -15,7 +15,7 @@ La Junta Directiva para el año 2022 se conforma por las siguientes personas:
 - [Ignacio Grané Rojas](https://t.me/Ignaciograne) (Vocalía 2)
 
 ### Fiscalía
-- [David Rafael Azofeifa Herrera](htt:s//t.me/DavidAzoherra)
+- [David Rafael Azofeifa Herrera](https://t.me/DavidAzoherra)
 
 ## Representación ante Consejo de Área
 - [Viviana Villalobos Valverde](https://t.me/Vivi1007)
