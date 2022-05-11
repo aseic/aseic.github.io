@@ -10,7 +10,7 @@ La Junta Directiva para el año 2022 se conforma por las siguientes personas:
 - [Alejandro José Soto Chacón](https://t.me/soto3442) (Secretaría de Asunto Académicos)
 - [Fátima Alicia Leiva Chinchilla](https://t.me/Faleiva) (Secretaría de Cultura y Deporte)
 - [Daniela Brenes Otárola](https://t.me/dani0805) (Secretaría de Divulgación y proyección tecnológica)
-- [Johnny Zaet Agüero Sandí](https://t.me/johnny_zaet08) (Scretaría de bienestar estudiantil)
+- [Johnny Zaet Agüero Sandí](https://t.me/johnny_zaet08) (Secretaría de bienestar estudiantil)
 - [Ignacio Vargas Campos](https://t.me/zkwinkle) (Vocalía 1)
 - [Ignacio Grané Rojas](https://t.me/Ignaciograne) (Vocalía 2)
 
