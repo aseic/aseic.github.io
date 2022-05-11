@@ -4,4 +4,7 @@ language = "es"
 multilingual = false
 src = "src"
 title = "ASEIC"
-description = "Página web principal de ASEIC"
+description = "Sitio web principal de ASEIC"
+
+[output.html.fold]
+enable = true
