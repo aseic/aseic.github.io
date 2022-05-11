@@ -4,3 +4,4 @@ language = "es"
 multilingual = false
 src = "src"
 title = "ASEIC"
+description = "Página web principal de ASEIC"
