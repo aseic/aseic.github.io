@@ -1,10 +1,10 @@
 # Contribuciones a ASEIC
 Bienvenidos y gracias por su interés en contribuir al sitio de la ASEIC. 
 
-Hay muchas maneras en la que se puede contribuir, además de escribir código. El propósito de este document is proveer información de cómo te puedes involucrar.
+Hay muchas maneras en la que se puede contribuir, además de escribir código. El propósito de este documento is proveer información de cómo te puedes involucrar.
 
 ## Hacer preguntas
-¿Tienes una pregunta? En vez de abrir un nuevo issue, puede hcaer la pregunta en el grupo de [Comunidad CE](https://t.me/ComunidadCeTec) en Telegram.
+¿Tienes una pregunta? En vez de abrir un nuevo issue, puedes hacer la pregunta en el grupo de [Comunidad CE](https://t.me/ComunidadCeTec) en Telegram.
 
 ## Proveer Feedback
 Tus comentarios y feedback son bienvenidos, y son súper importantes para el desarrollo de la comunidad. Puedes buscar los canales destinados para esto o hacerlo mediante el grupo de [Comunidad CE](https://t.me/ComunidadCeTec). 
