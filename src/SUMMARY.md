@@ -1,6 +1,7 @@
 # Summary
 
 - [Inicio](aseic.md)
+- [Contribuir](contribuciones.md)
 - [Procesos administrativos](procesos.md)
 - [Grupos estudiantiles](grupos_estudiantiles.md)
 - [Representación estudiantil](representacion_estudiantil.md)
