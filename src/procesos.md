@@ -4,7 +4,7 @@
 1. [Tabla de contenidos](#tabla-de-contenidos)
 1. [Procesos administrativos](#procesos-administrativos)
 1. [Inclusiones](#inclusiones)
-1. [Levantamientos de requisitos, correquisitos y RN](#levantamientos-de-requisitos-correquisitos-y-rn)
+    1. [Levantamientos de requisitos, correquisitos y RN](#levantamientos-de-requisitos-correquisitos-y-rn)
 <!-- /TOC -->
 
 
@@ -28,7 +28,7 @@ Luego de leer el reglamento siga los siguientes pasos:
 
 4. Espere el resultado de la comisión de inclusiones y levantamientos de CE, luego de lo cual podrá ver los resultados en los medios mencionados anteriormente, una vez reciba los resultados revise si estos se reflejan en el sistema de matrícula y TecDigital.
 
-# Levantamientos de requisitos, correquisitos y RN
+## Levantamientos de requisitos, correquisitos y RN
 
 Se le recuerda que la coordinación **no está obligada a realizar este procedimiento**, como se indica en los [Lineamientos para levantamiento de requisitos, correquisitos, RN e inclusiones](reglamentos.md), en el punto 1.
 
