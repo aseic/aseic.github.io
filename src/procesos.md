@@ -30,7 +30,7 @@ Luego de leer el reglamento siga los siguientes pasos:
 
 # Levantamientos de requisitos, correquisitos y RN
 
-Se le recuerda que la escuela **no está obligada a realizar este procedimiento**, como se indica en los [Lineamientos para levantamiento de requisitos, correquisitos, RN e inclusiones](reglamentos.md), en el punto 1.
+Se le recuerda que la coordinación **no está obligada a realizar este procedimiento**, como se indica en los [Lineamientos para levantamiento de requisitos, correquisitos, RN e inclusiones](reglamentos.md), en el punto 1.
 
 > La coordinación no está obligada a realizar el trámite de Levantamientos de Requisitos, Correquisitos y Rn, sin embargo, con el objeto de flexibilizar el tránsito del estudiante por la malla se acoge este procedimiento.
 
