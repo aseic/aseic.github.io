@@ -45,7 +45,7 @@ Si debe realizar **únicamente** levantamiento de requisitos, correquisitos o RN
 
 # Asistencias y tutorías
 
-Los estudiantes mimebros de la comunidad CE pueden aplicar a asistencias, ya sea de algún docente o la Coordinación de CE, además de tutorías estudiantiles y asistencias especiales. Aplicar a alguna de las anteriores permite obtener experiencia, apoyar a la comunidad y obtener los beneficios que ofrece cada una, los cuales van desde la exoneración de los créditos matriculados hasta un pago mensual o semestral variable según el tipo de asistencia.
+Los estudiantes miembros de la comunidad CE pueden aplicar a asistencias, ya sea de algún docente o la Coordinación de CE, además de tutorías estudiantiles y asistencias especiales. Aplicar a alguna de las anteriores permite obtener experiencia, apoyar a la comunidad y obtener los beneficios que ofrece cada una, los cuales van desde la exoneración de los créditos matriculados hasta un pago mensual o semestral variable según el tipo de asistencia.
 
 Antes de aplicar lea el [reglamento establecido por el Departamento de Becas y Gestión Social](reglamentos.md) para conocer los requerimientos y beneficios de cada tipo de asistencia.
 
