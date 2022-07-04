@@ -17,6 +17,8 @@ Aquí encontrará toda la información relevante acerca de los procesos administ
 
 Antes de realizar el proceso de inclusión para cualquier curso, lea los [Lineamientos para levantamiento de requisitos, correquisitos, RN e inclusiones](reglamentos.md) que le indicarán los requerimientos generales del proceso.
 
+Además en los [medios de difusión](aseic.md#contacto) se publicarán los cursos de código CE para los cuales se puede realizar este procedimiento.
+
 Para comunicarse con la comisión de inclusiones puede usar el siguiente correo: [inclusionesce@gmail.com](mailto:inclusionesce@gmail.com).
 
 Luego de leer el reglamento siga los siguientes pasos:
