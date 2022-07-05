@@ -147,16 +147,53 @@
 <p>Bienvenidos y gracias por su interés en contribuir al sitio de la ASEIC. </p>
 <p>Hay muchas maneras en la que se puede contribuir, además de escribir código. El propósito de este documento is proveer información de cómo te puedes involucrar.</p>
 <h2 id="hacer-preguntas"><a class="header" href="#hacer-preguntas">Hacer preguntas</a></h2>
-<p>¿Tienes una pregunta? En vez de abrir un nuevo issue, puedes hablar con cualquier miembro de la <a href="representacion_estudiantil.html#junta-directiva">junta directiva</a> o también puedes hacer la pregunta en el grupo de <a href="https://t.me/ComunidadCeTec">Comunidad CE</a> en Telegram.</p>
+<p>¿Tienes una pregunta? En vez de abrir un nuevo issue, puedes hablar con cualquier miembro de la <a href="representacion_estudiantil.html#junta-directiva">junta directiva</a> o utilizar cualquiera de los <a href="aseic.html#contacto">medios de contacto</a> disponibles.</p>
 <h2 id="proveer-feedback"><a class="header" href="#proveer-feedback">Proveer Feedback</a></h2>
-<p>Tus comentarios y feedback son bienvenidos, y son súper importantes para el desarrollo de la comunidad. Puedes buscar los canales destinados para esto o hacerlo mediante el grupo de <a href="https://t.me/ComunidadCeTec">Comunidad CE</a>. </p>
+<p>Tus comentarios y feedback son bienvenidos, y son súper importantes para el desarrollo de la comunidad. Cualquier medio disponible en el apartado de <a href="aseic.html#contacto">contacto</a> puede utilizarse para este fin.</p>
 <h2 id="reglas-para-contribuir"><a class="header" href="#reglas-para-contribuir">Reglas para Contribuir</a></h2>
 <p>Hay muchas formas de contribuir al sitio de ASEIC: registrar errores, enviar PRs, informar problemas y crear sugerencias.</p>
-<p>Después de clonar y compilar el repositorio, consulte la lista de problemas. Los problemas etiquetados como &quot;Se necesita ayuda&quot; son buenos problemas para enviar un PR. Los problemas etiquetados como buenos como primer problema son excelentes candidatos para retomar si está en el código por primera vez. Si está contribuyendo con cambios significativos, o si el problema ya está asignado a un issue específico, hable primero con el asignado del problema antes de comenzar a trabajar en él.</p>
-<h2 id="code-of-conduct"><a class="header" href="#code-of-conduct">Code of Conduct</a></h2>
+<p>Antes de contribuir debe leer las siguientes reglas para que sus aportes puedan incluirse y sean valiosos para la comunidad.</p>
+<ol>
+<li>
+<p>Para crear un aporte utilice los issues o Pull Requests (PR) de GitHub, así se podrá discutir su idea con otras personas y facilitará el proceso de aprobación.</p>
+</li>
+<li>
+<p>Cuando agregue un commit siga las <a href="#convenciones-de-formato-para-commits">convenciones</a> descritas en este apartado. De esta manera se mantendrá un historial que permitirá a otras personas entender mejor los cambios y los motivos de estos.</p>
+</li>
+</ol>
+<p>Este sitio está contruido con <a href="https://github.com/rust-lang/mdBook">mdbook</a>, una herramienta para generar páginas web a partir de documentos en formato <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a>. Se recomienda que se familiarice al menos con el formato markdown para que sus aportes puedan ser renderizados correctamente.</p>
+<p>Para crear una sección basta con crear un archivo con un nombre descriptivo pero conciso de lo que contendrá dicha sección. Una vez creado puede agregarlo al documento <code>SUMMARY.md</code> para que se muestre dicha sección en el menú lateral.</p>
+<p>Después de clonar y compilar el repositorio, consulte la lista de issues. Los issues etiquetados como &quot;ayuda requerida&quot; son buenos problemas para enviar un PR. Los problemas etiquetados como &quot;issue de inicio&quot; son excelentes candidatos para retomar si está en el código por primera vez. Si está contribuyendo con cambios significativos, o si el problema ya está asignado a un issue específico, hable primero con el asignado del problema antes de comenzar a trabajar en él.</p>
+<h3 id="convenciones-de-formato-para-commits"><a class="header" href="#convenciones-de-formato-para-commits">Convenciones de formato para commits</a></h3>
+<p>Todos los commits deben seguir la siguiente estructura:</p>
+<pre><code>&lt;tipo&gt;: &lt;descripción&gt;
+
+[cuerpo opcional]
+</code></pre>
+<p>Se recomienda que la primera línea no pase los 52 caracteres para que se presente correctamente los commits en GitHub y otras herramientas.</p>
+<h4 id="tipo"><a class="header" href="#tipo">Tipo</a></h4>
+<p>El tipo proporciona contexto al commit. Se refiere a la intención del commit. Por ejemplo, ¿El commit agrega nuevo contenido? ¿El commit mejora el estilo de alguna sección? ¿El commit reordena la información?</p>
+<p>Se pueden utilizar los siguientes tipos:</p>
 <ul>
-<li>Placeholder</li>
+<li><strong>cambio</strong>: Modifica el contenido de alguna sección del sitio, ya sea para reemplazar información desactualizada, errónea o mejor escrita.</li>
+<li><strong>nuevo</strong>: Agrega información nueva al sitio, ya sea secciones o información que antes no se mencionaba.</li>
+<li><strong>estilo</strong>: Se refiere a cambios en la apariencia del sitio, ya sea colores u organización de elementos.</li>
+<li><strong>borrado</strong>: Se refiere a eliminación de información o secciones que no son útiles o están erradas.</li>
+<li><strong>tech</strong>: Se refiere a cambios en las herramientas utilizadas en el sitio, ya sea modificación de dependencias o configuración.</li>
 </ul>
+<h3 id="cuerpo"><a class="header" href="#cuerpo">Cuerpo</a></h3>
+<p>Esta sección es para describir más detalles acerca del commit, enfocado en el motivo para realizar el cambio. Debe ir lo mejor redactada posible de manera que otros contribuyentes puedan entender los commits mejor viendo el historial.</p>
+<p>También se pueden agregar referencias a issues o PR para mantener una relación con las discusiones de la comunidad.</p>
+<h3 id="ejemplos"><a class="header" href="#ejemplos">Ejemplos</a></h3>
+<p>Algunos ejemplos de buenos mensajes de commit serían los siguientes:</p>
+<pre><code>cambio: Reemplaza procedimiento de inclusiones
+</code></pre>
+<pre><code>nuevo: Agrega sección proyectos de investigación
+</code></pre>
+<pre><code>tech: Agrega módulo para generar RSS feeds
+
+Se agregó este módulo para generar feeds de la sección de proyectos.
+</code></pre>
 
                     </main>
 
