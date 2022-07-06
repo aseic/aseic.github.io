@@ -10,7 +10,7 @@ Las formas de contribución indican los métodos ofrecidos para contribuir al pr
 1. **Proyecto de Diseño:** Significa que el proyecto acepta estudiantes para que realicen su Proyecto de Diseño de Ingeniería en Computadores.
 1. **Asistencia:** Significa que el proyecto acepta estudiantes por medio de Asistencia especial u Horas Beca.
 1. **Voluntariado:** Singifica que el proyecto acepta estudiantes voluntarios que quieran aportar al proyecto.
-1. **Externo:** Significa que el proyecto acepta esstudiantes por medios externos al TEC y CE. Consulte los medios de contacto del proyecto para tener más información.
+1. **Externo:** Significa que el proyecto acepta estudiantes por medios externos al TEC y CE. Consulte los medios de contacto del proyecto para tener más información.
 
 - [Proyectos activos](proyectos_activos.md)
 - [Proyectos finalizados](proyectos_finalizados.md)
