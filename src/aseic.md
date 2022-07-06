@@ -1,6 +1,6 @@
 # ASEIC
 
-Este es el sitio web principal de la junta directiva de la Asociación de Estudiantes de Ingeniería en Computadores.
+Este es el sitio web principal de la de la Asociación de Estudiantes de Ingeniería en Computadores.
 
 Aquí puede encontrar información de contacto, documentos, noticias y demás contenido relacionado a la carrera de Computadores y su comunindad estudiantil. En el panel de la izquierda puede navegar por las distintas secciones del sitio.
 
