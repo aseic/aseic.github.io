@@ -48,14 +48,14 @@ Se pueden utilizar los siguientes tipos:
 - **borrado**: Se refiere a eliminación de información o secciones que no son útiles o están erradas.
 - **tech**: Se refiere a cambios en las herramientas utilizadas en el sitio, ya sea modificación de dependencias o configuración.
 
-### Cuerpo
+#### Cuerpo
 
 Esta sección es para describir más detalles acerca del commit, enfocado en el motivo para realizar el cambio. Debe ir lo mejor redactada posible de manera que otros contribuyentes puedan entender los commits mejor viendo el historial.
 
 También se pueden agregar referencias a issues o PR para mantener una relación con las discusiones de la comunidad.
 
 
-### Ejemplos
+#### Ejemplos
 
 Algunos ejemplos de buenos mensajes de commit serían los siguientes:
 
