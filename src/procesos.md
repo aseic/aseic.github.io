@@ -1,19 +1,16 @@
+# Procesos administrativos
 
-# Tabla de contenidos
+Aquí encontrará toda la información relevante acerca de los procesos administrativos más comunes de CE.
+
+## Tabla de contenidos
 <!-- TOC -->
 1. [Tabla de contenidos](#tabla-de-contenidos)
-1. [Procesos administrativos](#procesos-administrativos)
 1. [Inclusiones](#inclusiones)
     1. [Levantamientos de requisitos, correquisitos y RN](#levantamientos-de-requisitos-correquisitos-y-rn)
 1. [Asistencias y tutorías](#asistencias-y-tutorías)
 <!-- /TOC -->
 
-
-# Procesos administrativos
-
-Aquí encontrará toda la información relevante acerca de los procesos administrativos más comunes de CE.
-
-# Inclusiones
+## Inclusiones
 
 Antes de realizar el proceso de inclusión para cualquier curso, lea los [Lineamientos para levantamiento de requisitos, correquisitos, RN e inclusiones](reglamentos.md) que le indicarán los requerimientos generales del proceso.
 
@@ -31,7 +28,7 @@ Luego de leer el reglamento siga los siguientes pasos:
 
 4. Espere el resultado de la comisión de inclusiones y levantamientos de CE, luego de lo cual podrá ver los resultados en los medios mencionados anteriormente, una vez reciba los resultados revise si estos se reflejan en el sistema de matrícula y TecDigital.
 
-## Levantamientos de requisitos, correquisitos y RN
+### Levantamientos de requisitos, correquisitos y RN
 
 Se le recuerda que la Coordinación **no está obligada a realizar este procedimiento**, como se indica en los [Lineamientos para levantamiento de requisitos, correquisitos, RN e inclusiones](reglamentos.md), en el punto 1.
 
@@ -45,7 +42,7 @@ Este proceso consiste en realizar una inclusión al curso seleccionado indicando
 
 Si debe realizar **únicamente** levantamiento de requisitos, correquisitos o RN para cursos de servicio debe realizar este mismo proceso y cumplir los requerimientos que indique la escuela del curso correspondiente.
 
-# Asistencias y tutorías
+## Asistencias y tutorías
 
 Los estudiantes miembros de la comunidad CE pueden aplicar a asistencias, ya sea de algún docente o la Coordinación de CE, además de tutorías estudiantiles y asistencias especiales. Aplicar a alguna de las anteriores permite obtener experiencia, apoyar a la comunidad y obtener los beneficios que ofrece cada una, los cuales van desde la exoneración de los créditos matriculados hasta un pago mensual o semestral variable según el tipo de asistencia.
 
