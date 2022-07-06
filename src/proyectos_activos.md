@@ -38,6 +38,8 @@
 **Formas de contribución disponibles**
 
 - Proyecto de Diseño
+- Asistencia
+- Voluntariado
 
 **Notas**
 
@@ -66,6 +68,8 @@ En estos proyectos se espera la generación de publicaciones con los/as estudian
 **Formas de contribución disponibles**
 
 - Proyecto de Diseño
+- Asistencia
+- Voluntariado
 
 **Notas**
 
@@ -93,6 +97,8 @@ En estos proyectos se espera la generación de publicaciones con los/as estudian
 **Formas de contribución disponibles**
 
 - Proyecto de Diseño
+- Asistencia
+- Voluntariado
 
 **Notas**
 
@@ -122,6 +128,8 @@ En estos proyectos se espera la generación de publicaciones con los/as estudian
 **Formas de contribución disponibles**
 
 - Proyecto de Diseño
+- Asistencia
+- Voluntariado
 
 **Notas**
 
@@ -150,6 +158,8 @@ En estos proyectos se espera la generación de publicaciones con los/as estudian
 **Formas de contribución disponibles**
 
 - Proyecto de Diseño
+- Asistencia
+- Voluntariado
 
 **Notas**
 
@@ -177,6 +187,8 @@ En estos proyectos se espera la generación de publicaciones con los/as estudian
 **Formas de contribución disponibles**
 
 - Proyecto de Diseño
+- Asistencia
+- Voluntariado
 
 **Notas**
 
@@ -202,6 +214,8 @@ En estos proyectos se espera la generación de publicaciones con los/as estudian
 **Formas de contribución disponibles**
 
 - Proyecto de Graduación
+- Asistencia
+- Voluntariado
 
 **Notas**
 
@@ -227,6 +241,8 @@ En estos proyectos se espera la generación de publicaciones con los/as estudian
 **Formas de contribución disponibles**
 
 - Proyecto de Graduación
+- Asistencia
+- Voluntariado
 
 **Notas**
 
@@ -256,6 +272,8 @@ documentos de identidad mediante el uso de técnicas de identificación y autent
 **Formas de contribución disponibles**
 
 - Proyecto de Graduación
+- Asistencia
+- Voluntariado
 
 **Notas**
 
@@ -283,6 +301,8 @@ En estos proyectos se espera la generación de publicaciones con los/as estudian
 **Formas de contribución disponibles**
 
 - Proyecto de Graduación
+- Asistencia
+- Voluntariado
 
 **Notas**
 
@@ -310,6 +330,8 @@ En estos proyectos se espera la generación de publicaciones con los/as estudian
 **Formas de contribución disponibles**
 
 - Proyecto de Graduación
+- Asistencia
+- Voluntariado
 
 **Notas**
 
@@ -337,6 +359,8 @@ En estos proyectos se espera la generación de publicaciones con los/as estudian
 **Formas de contribución disponibles**
 
 - Proyecto de Graduación
+- Asistencia
+- Voluntariado
 
 **Notas**
 
@@ -366,6 +390,8 @@ En estos proyectos se espera la generación de publicaciones con los/as estudian
 **Formas de contribución disponibles**
 
 - Proyecto de Graduación
+- Asistencia
+- Voluntariado
 
 **Notas**
 
@@ -393,6 +419,8 @@ En estos proyectos se espera la generación de publicaciones con los/as estudian
 **Formas de contribución disponibles**
 
 - Proyecto de Graduación
+- Asistencia
+- Voluntariado
 
 **Notas**
 
