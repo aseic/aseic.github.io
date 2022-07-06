@@ -22,9 +22,3 @@ Si desea contactar a la Coordinación de CE, puede comunicarse con la asistente 
 
 - [Informe CE](https://t.me/joinchat/Ur4GI7TinIs2YWZh) en Telegram.
 - [Comunidad](https://tecdigital.tec.ac.cr/dotlrn/escuela/escuela.IDC) en el TecDigital.
-
-# Contribuir al proyecto
-
-Si desea contribuir al proyecto puede ver el código en la [organización de GitHub](https://github.com/aseic).
-
-También puede dejar sus comentarios en el [formulario de sugerencias](https://forms.gle/YDFFxy35NmMeKrTUA).

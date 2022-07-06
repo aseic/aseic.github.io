@@ -7,7 +7,7 @@ Hay muchas maneras en la que se puede contribuir, además de escribir código. E
 ¿Tienes una pregunta? En vez de abrir un nuevo issue, puedes hablar con cualquier miembro de la [junta directiva](representacion_estudiantil.md#junta-directiva) o utilizar cualquiera de los [medios de contacto](aseic.md#contacto) disponibles.
 
 ## Proveer Feedback
-Tus comentarios y feedback son bienvenidos, y son súper importantes para el desarrollo de la comunidad. Cualquier medio disponible en el apartado de [contacto](aseic.md#contacto) puede utilizarse para este fin.
+Tus comentarios y feedback son bienvenidos, y son súper importantes para el desarrollo de la comunidad. En el [formulario de sugerencias](https://forms.gle/YDFFxy35NmMeKrTUA) puedes enviar tus comentarios. Además, cualquier medio disponible en el apartado de [contacto](aseic.md#contacto) puede utilizarse para este fin.
 
 ## Reglas para Contribuir
 Hay muchas formas de contribuir al sitio de ASEIC: registrar errores, enviar PRs, informar problemas y crear sugerencias.
