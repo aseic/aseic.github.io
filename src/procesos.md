@@ -20,11 +20,11 @@ Para comunicarse con la comisión de inclusiones puede usar el siguiente correo:
 
 Luego de leer el reglamento siga los siguientes pasos:
 
-1. En los [medios de difusión](aseic.md#contacto) de la Coordinación y la Junta Directiva se publicará el cronograma a seguir para el semestre que corresponda.
+1. En los [medios de difusión](aseic.md#contacto) de la Coordinación y la Junta Directiva se publicarán las fechas en las que debe atender el formulario para el semestre que corresponda.
 
-2. Complete el [formulario](https://www.tec.ac.cr/formularios/solicitud-inclusion-matricula-area-academica-ingenieria-computadores) antes de la fecha indicada en el cronograma y siga las instrucciones indicadas, recuerde que debe llenar la cartilla de intención indicando los motivos por los que requiere la inclusión y si requiere levantamientos de requisito, correquisito o RN.
+2. Complete el [formulario](https://www.tec.ac.cr/formularios/solicitud-inclusion-matricula-area-academica-ingenieria-computadores) antes de la fecha límite indicada y siga las instrucciones, recuerde que debe llenar la cartilla de intención indicando los motivos por los que requiere la inclusión y si requiere levantamientos de requisito, correquisito o RN.
 
-3. Para cursos de servicio (Computación, Electrónica, Matemática...) debe seguir el procedimiento que indique la escuela del curso y llenar el formulario correspondiente, para cursos CE solo debe llenar lo indicado en el paso 2.
+3. Para cursos de servicio (Computación, Electrónica, Matemática...) debe seguir el procedimiento que indique la escuela del curso y llenar el formulario correspondiente además del indicado para CE, para cursos CE solo debe llenar lo indicado en el paso 2.
 
 4. Espere el resultado de la comisión de inclusiones y levantamientos de CE, luego de lo cual podrá ver los resultados en los medios mencionados anteriormente, una vez reciba los resultados revise si estos se reflejan en el sistema de matrícula y TecDigital.
 
@@ -50,11 +50,11 @@ Antes de aplicar lea el [reglamento establecido por el Departamento de Becas y G
 
 Luego de leer el reglamento anterior siga lo siguientes pasos:
 
-1. En los [medios de difusión](aseic.md#contacto) de la Coordinación y la Junta Directiva se publicará el cronograma a seguir para el semestre que corresponda.
+1. En los [medios de difusión](aseic.md#contacto) de la Coordinación y la Junta Directiva se publicarán las fechas en las que debe atender el formulario para el semestre que corresponda.
 
 1. Llene el [consetimiento informado del estudiante](https://drive.google.com/drive/folders/1MIAOA1Zirwn8QWUZKwfJP5QATtBuB9Uj) que indica detalles acerca del manejo de su información personal por el Departamento de Becas y Gestión Social y la Coordinación de CE.
 
-2. Llene el formulario que corresponda compartido por la Coordinación y la Junta Directiva antes de la fecha indicada en el cronograma.
+2. Llene el formulario que corresponda compartido por la Coordinación y la Junta Directiva antes de la fecha límite indicada.
 
 3. El Departamento de Becas y Gestión Social le comunicará el resultado oficial por medio de su correo de dominio @estudiantec.cr. Además, la Coordinación estará publicando los resultados según el cronograma.
 
