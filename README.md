@@ -1,5 +1,5 @@
 # Contribuciones a ASEIC
-Bienvenidos y gracias por su interés en contribuir al sitio de la ASEIC.
+Bienvenidos y gracias por su interés en contribuir al sitio de la Asociación de Estudiantes de Ingeniería en Computadores (ASEIC).
 
 Hay muchas maneras en la que se puede contribuir, además de escribir código. El propósito de este documento is proveer información de cómo te puedes involucrar.
 
