@@ -10,7 +10,7 @@ Puede encontrar el reglamento de la asociación [aquí](https://raw.githubuserco
 
 Si tiene alguna duda, sugerencia o comentario puede contactar a la Junta Directiva por [correo electrónico](mailto:aseic.itcr@gmail.com), contactando a cualquiera de los [miembros](representacion_estudiantil.md#junta-directiva) o utilizando el grupo estudiantil de Telegram [Comunidad CE](https://t.me/ComunidadCeTec).
 
-Además, puede consultar el [horario (primer semestre 2022)](https://docs.google.com/spreadsheets/d/e/2PACX-1vTOaClZSFAgSI2sWVAt1Tsc4JfsNur9xIClDmj3n-VkePphYslOBlxPVWOjx0w907OSVxcdptUN7qvZ/pubhtml?gid=0&single=true) en el que estamos disponibles en la oficina en el edificio F2.
+Además, puede consultar el [horario (segundo semestre 2022)](https://docs.google.com/spreadsheets/d/e/2PACX-1vTOaClZSFAgSI2sWVAt1Tsc4JfsNur9xIClDmj3n-VkePphYslOBlxPVWOjx0w907OSVxcdptUN7qvZ/pubhtml?gid=0&single=true) en el que estamos disponibles en la oficina en el edificio F2.
 
 Finalmente, tenemos los siguientes medios de difusión:
 
