@@ -1,0 +1,286 @@
+<!DOCTYPE HTML>
+<html lang="es" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Plan 2100, II-2022</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="Sitio web principal de ASEIC">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                <link rel="icon" href="../../favicon.svg">
+                        <link rel="shortcut icon" href="../../favicon.png">
+                <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+                <link rel="stylesheet" href="../../css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="../../fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item "><a href="../../aseic.html"><strong aria-hidden="true">1.</strong> Inicio</a></li><li class="chapter-item "><a href="../../contribuciones.html"><strong aria-hidden="true">2.</strong> Contribuir</a></li><li class="chapter-item "><a href="../../proyectos.html"><strong aria-hidden="true">3.</strong> Proyectos</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../proyectos_activos.html"><strong aria-hidden="true">3.1.</strong> Activos</a></li><li class="chapter-item "><a href="../../proyectos_finalizados.html"><strong aria-hidden="true">3.2.</strong> Finalizados</a></li></ol></li><li class="chapter-item "><a href="../../procesos.html"><strong aria-hidden="true">4.</strong> Procesos administrativos</a></li><li class="chapter-item "><a href="../../reglamentos.html"><strong aria-hidden="true">5.</strong> Reglamentos</a></li><li class="chapter-item "><a href="../../grupos_estudiantiles.html"><strong aria-hidden="true">6.</strong> Grupos estudiantiles</a></li><li class="chapter-item "><a href="../../representacion_estudiantil.html"><strong aria-hidden="true">7.</strong> Representación estudiantil</a></li><li class="chapter-item "><a href="../../sesiones_jd.html"><strong aria-hidden="true">8.</strong> Informes de Junta Directiva</a></li><li class="chapter-item "><a href="../../sesiones_consejo.html"><strong aria-hidden="true">9.</strong> Informes de Consejo</a></li><li class="chapter-item expanded "><a href="../../programas/index.html"><strong aria-hidden="true">10.</strong> Programas de Curso</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../programas/2022-2/2022-2.html" class="active"><strong aria-hidden="true">10.1.</strong> II Semestre 2022</a></li></ol></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">ASEIC</h1>
+
+                    <div class="right-buttons">
+                                                <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <p><strong>Estos programas de curso se ofrecen sin ningún tipo de garantía acerca de su
+estado de vigencia, validez o aplicabilidad.</strong> Si encuentra un error o dispone
+de algún programa de curso faltante (incluso de períodos anteriores), contacte
+a la Junta Directiva ASEIC.</p>
+<h2 id="bloque-0"><a class="header" href="#bloque-0">Bloque 0</a></h2>
+<ul>
+<li><a href="aseic-rel://MA0101.pdf"><code>MA0101</code> Matemática General</a></li>
+</ul>
+<h2 id="bloque-1"><a class="header" href="#bloque-1">Bloque 1</a></h2>
+<ul>
+<li><a href="aseic-rel://CE1101.pdf"><code>CE1101</code> Introducción a la Programación</a></li>
+<li><a href="aseic-rel://CE1102.pdf"><code>CE1102</code> Taller de Programación</a></li>
+<li><a href="aseic-rel://CS1502.pdf"><code>CS1502</code> Introducción a la Técnica, Ciencia y Tecnología</a></li>
+<li><a href="aseic-rel://MA1102.pdf"><code>MA1102</code> Cálculo Diferencial e Integral</a></li>
+<li><a href="aseic-rel://MA1403.pdf"><code>MA1403</code> Matemática Discreta</a></li>
+<li><a href="aseic-rel://QU1102.pdf"><code>QU1102</code> Laboratorio de Química I</a></li>
+<li><a href="aseic-rel://QU1106.pdf"><code>QU1106</code> Química Básica I</a></li>
+</ul>
+<h2 id="bloque-2"><a class="header" href="#bloque-2">Bloque 2</a></h2>
+<ul>
+<li><a href="aseic-rel://CE1103.pdf"><code>CE1103</code> Algoritmos y Estructuras de Datos I</a></li>
+<li><a href="aseic-rel://CI1403.pdf"><code>CI1403</code> Comunicación Técnica</a></li>
+<li><a href="aseic-rel://FI1101.pdf"><code>FI1101</code> Física General I</a></li>
+<li><a href="aseic-rel://FI1201.pdf"><code>FI1201</code> Laboratorio de Física General I</a></li>
+<li><a href="aseic-rel://MA1103.pdf"><code>MA1103</code> Cálculo y Álgebra Lineal</a></li>
+<li><a href="aseic-rel://QU1104.pdf"><code>QU1104</code> Laboratorio de Química Básica II</a></li>
+<li><a href="aseic-rel://QU1107.pdf"><code>QU1107</code> Química Básica II</a></li>
+</ul>
+<h2 id="bloque-3"><a class="header" href="#bloque-3">Bloque 3</a></h2>
+<ul>
+<li><a href="aseic-rel://CE2103.pdf"><code>CE2103</code> Algoritmos y Estructuras de Datos II</a></li>
+<li><a href="aseic-rel://CS2101.pdf"><code>CS2101</code> Ambiente Humano</a></li>
+<li><a href="aseic-rel://EL2113.pdf"><code>EL2113</code> Circuitos Eléctricos en Corriente Continua</a></li>
+<li><a href="aseic-rel://FI1102.pdf"><code>FI1102</code> Física General II</a></li>
+<li><a href="aseic-rel://FI1202.pdf"><code>FI1202</code> Laboratorio de Física General II</a></li>
+<li><a href="aseic-rel://MA2104.pdf"><code>MA2104</code> Cálculo Superior</a></li>
+</ul>
+<h2 id="bloque-4"><a class="header" href="#bloque-4">Bloque 4</a></h2>
+<ul>
+<li><a href="aseic-rel://CE2201.pdf"><code>CE2201</code> Laboratorio de Circuitos Eléctricos</a></li>
+<li><a href="aseic-rel://EL2114.pdf"><code>EL2114</code> Circuitos Eléctricos en Corriente Alterna</a></li>
+<li><a href="aseic-rel://EL2207.pdf"><code>EL2207</code> Elementos Activos</a></li>
+<li><a href="aseic-rel://FI2103.pdf"><code>FI2103</code> Física General III</a></li>
+<li><a href="aseic-rel://MA2105.pdf"><code>MA2105</code> Ecuaciones Diferenciales</a></li>
+</ul>
+<h2 id="bloque-5"><a class="header" href="#bloque-5">Bloque 5</a></h2>
+<ul>
+<li><a href="aseic-rel://CE3104.pdf"><code>CE3104</code> Lenguajes, Compiladores e Intérpretes</a></li>
+<li><a href="aseic-rel://CI3203.pdf"><code>CI3203</code> Inglés Especializado para Ingeniería en Computadores</a></li>
+<li><a href="aseic-rel://EL2206.pdf"><code>EL2206</code> Laboratorio de Elementos Activos</a></li>
+<li><a href="aseic-rel://EL3212.pdf"><code>EL3212</code> Circuitos Discretos</a></li>
+<li><a href="aseic-rel://EL3307.pdf"><code>EL3307</code> Diseño Lógico</a></li>
+<li><a href="aseic-rel://FI2104.pdf"><code>FI2104</code> Física General IV</a></li>
+</ul>
+<h2 id="bloque-6"><a class="header" href="#bloque-6">Bloque 6</a></h2>
+<ul>
+<li><a href="aseic-rel://CE3101.pdf"><code>CE3101</code> Bases de Datos</a></li>
+<li><a href="aseic-rel://CE3102.pdf"><code>CE3102</code> Análisis Numérico para Ingeniería</a></li>
+<li><a href="aseic-rel://CE3201.pdf"><code>CE3201</code> Taller de Diseño Digital</a></li>
+<li><a href="aseic-rel://EL3213.pdf"><code>EL3213</code> Circuitos Integrados Lineales</a></li>
+<li><a href="aseic-rel://EL3310.pdf"><code>EL3310</code> Diseño de Sistemas Digitales</a></li>
+</ul>
+<h2 id="bloque-7"><a class="header" href="#bloque-7">Bloque 7</a></h2>
+<ul>
+<li><a href="aseic-rel://CE4101.pdf"><code>CE4101</code> Especificación y Diseño de Software</a></li>
+<li><a href="aseic-rel://CE4202.pdf"><code>CE4202</code> Taller de Diseño Analógico</a></li>
+<li><a href="aseic-rel://CE4301.pdf"><code>CE4301</code> Arquitectura de Computadores I</a></li>
+<li><a href="aseic-rel://EL4702.pdf"><code>EL4702</code> Probabilidad y Estadística</a></li>
+<li><a href="aseic-rel://EL4703.pdf"><code>EL4703</code> Señales y Sistemas</a></li>
+</ul>
+<h2 id="bloque-8"><a class="header" href="#bloque-8">Bloque 8</a></h2>
+<ul>
+<li><a href="aseic-rel://AE4208.pdf"><code>AE4208</code> Desarrollo de Emprendedores</a></li>
+<li><a href="aseic-rel://CE4302.pdf"><code>CE4302</code> Arquitectura de Computadores II</a></li>
+<li><a href="aseic-rel://CE4303.pdf"><code>CE4303</code> Principios de Sistemas Operativos</a></li>
+<li><a href="aseic-rel://CS3401.pdf"><code>CS3401</code> Seminario de Estudios Filosóficos Históricos</a></li>
+</ul>
+<h2 id="bloque-9"><a class="header" href="#bloque-9">Bloque 9</a></h2>
+<ul>
+<li><a href="aseic-rel://CE5301.pdf"><code>CE5301</code> Redes de Computadores</a></li>
+<li><a href="aseic-rel://CE5302.pdf"><code>CE5302</code> Proyecto de Diseño de Ingeniería en Computadores</a></li>
+<li><a href="aseic-rel://CE5401.pdf"><code>CE5401</code> Formulación y Administración de Proyectos</a></li>
+</ul>
+<h2 id="bloque-10"><a class="header" href="#bloque-10">Bloque 10</a></h2>
+<ul>
+<li><a href="aseic-rel://CE5600.pdf"><code>CE5600</code> Trabajo Final de Graduación</a></li>
+<li><a href="aseic-rel://CS4402.pdf"><code>CS4402</code> Seminario de Estudios Costarricenses</a></li>
+</ul>
+<h2 id="electivas"><a class="header" href="#electivas">Electivas</a></h2>
+<ul>
+<li><a href="aseic-rel://CE5303.pdf"><code>CE5303</code> Introducción a los Sistemas Embebidos</a></li>
+<li><a href="aseic-rel://EL5805.pdf"><code>EL5805</code> Procesamiento Digital de Señales</a></li>
+<li><a href="aseic-rel://IC6200.pdf"><code>IC6200</code> Inteligencia Artificial</a></li>
+</ul>
+<h2 id="actividades-culturales-y-deportivas"><a class="header" href="#actividades-culturales-y-deportivas">Actividades culturales y deportivas</a></h2>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="../../programas/index.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="../../programas/index.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+                <script type="text/javascript" src="../../js/aseic-rel.js"></script>
+        
+        
+    </body>
+</html>
