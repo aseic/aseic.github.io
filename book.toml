@@ -1,9 +1,13 @@
 [book]
-authors = ["Alejandro Soto", "Alejandro Díaz"]
-language = "en"
+authors = ["Asociación de Estudiantes de Ingeniería en Computadores"]
+language = "es"
 multilingual = false
 src = "src"
 title = "ASEIC"
+description = "Sitio web principal de ASEIC"
 
 [output.html]
 additional-js = ["js/aseic-rel.js"]
+
+[output.html.fold]
+enable = true
