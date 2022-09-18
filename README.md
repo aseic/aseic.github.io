@@ -1,5 +1,5 @@
 # Contribuciones a ASEIC
-Bienvenidos y gracias por su interés en contribuir al sitio de la ASEIC.
+Bienvenidos y gracias por su interés en contribuir al sitio de la Asociación de Estudiantes de Ingeniería en Computadores (ASEIC).
 
 Hay muchas maneras en la que se puede contribuir, además de escribir código. El propósito de este documento is proveer información de cómo te puedes involucrar.
 
@@ -47,6 +47,7 @@ Se pueden utilizar los siguientes tipos:
 - **estilo**: Se refiere a cambios en la apariencia del sitio, ya sea colores u organización de elementos.
 - **borrado**: Se refiere a eliminación de información o secciones que no son útiles o están erradas.
 - **tech**: Se refiere a cambios en las herramientas utilizadas en el sitio, ya sea modificación de dependencias o configuración.
+- **misc**: Se refiere a cambios mínimos del contenido y sin un efecto destacable, como arreglar un typo.
 
 #### Cuerpo
 

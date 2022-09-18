@@ -6,5 +6,8 @@ src = "src"
 title = "ASEIC"
 description = "Sitio web principal de ASEIC"
 
+[output.html]
+additional-js = ["js/aseic-rel.js"]
+
 [output.html.fold]
 enable = true
