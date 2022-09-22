@@ -24,4 +24,10 @@ Computadores.
 18. [Propuesta de análisis de EL3310 por EIE.](https://raw.githubusercontent.com/aseic/assets/master/revision_curricular/docs/informe_final_ceda/anexos/18.Análisis_EL3310_final.pdf)
 19. [Presentación de percepción de EIE sobre rediseño.](https://raw.githubusercontent.com/aseic/assets/master/revision_curricular/docs/informe_final_ceda/anexos/19.PRESENTACION_COMPUTADORES_Perfil.pdf)
 20. Minutas
-
+    - [Primer reunión CE EL 4 abril](https://raw.githubusercontent.com/aseic/assets/master/revision_curricular/docs/informe_final_ceda/anexos/20.Minutas/Primer_reunión_CE_EL_4_abril.pdf)
+    - [Segunda reunión CE EL abril](https://raw.githubusercontent.com/aseic/assets/master/revision_curricular/docs/informe_final_ceda/anexos/20.Minutas/Segunda_reunión_CE_EL_abril.pdf)
+    - [Tercer reunión CE EL 2 de mayo](https://raw.githubusercontent.com/aseic/assets/master/revision_curricular/docs/informe_final_ceda/anexos/20.Minutas/Tercer_reunión_CE_EL_2_de_mayo.pdf)
+    - [Cuarta reunión CE EL 9 de mayo ](https://raw.githubusercontent.com/aseic/assets/master/revision_curricular/docs/informe_final_ceda/anexos/20.Minutas/Cuarta_reunión_CE_EL_9_de_mayo.pdf)
+    - [Quinta reunión CE EL 16 de mayo ](https://raw.githubusercontent.com/aseic/assets/master/revision_curricular/docs/informe_final_ceda/anexos/20.Minutas/Quinta_reunión_CE_EL_16_de_mayo.pdf)
+    - [Sexta reunión CE EL 30 de mayo ](https://raw.githubusercontent.com/aseic/assets/master/revision_curricular/docs/informe_final_ceda/anexos/20.Minutas/Sexta_reunión_CE_EL_30_de_mayo.pdf)
+    - [Séptima reunión CE EL 13 de junio](https://raw.githubusercontent.com/aseic/assets/master/revision_curricular/docs/informe_final_ceda/anexos/20.Minutas/Séptima_reunión_CE_EL_13_de_junio.pdf)
