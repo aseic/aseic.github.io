@@ -10,7 +10,7 @@
     - [CE-109-2022](revision_curricular/CE_109_2022.md)
     - [CE-110-2022](revision_curricular/CE_110_2022.md)
     - [EE-338-2022](revision_curricular/EE_338_2022.md)
-    - [CEDA-356-2022](revision_curricular/CEDA_356_2022.md)
+    - [Informe Final CEDA](revision_curricular/informe_final_ceda.md)
     - [JDASEIC-2022-029](revision_curricular/JDASEIC_2022_029.md)
     - [ViDa-488-2022](revision_curricular/ViDa_488_2022.md)
     - [Carta a la Vicerrectora](revision_curricular/carta_vicerrectora.md)
