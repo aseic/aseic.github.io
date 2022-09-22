@@ -13,7 +13,7 @@ Computadores.
 7. Análisis del OE.
 8. [Resolución de acuerdo del OE.](https://raw.githubusercontent.com/aseic/assets/master/revision_curricular/docs/informe_final_ceda/anexos/8.Resolución_de_Acuerdos_tomados_sesión_de_contexto_(1).pdf)
 9. [Propuesta del área académica de Computadores sobre creación de un curso EL-xxx Circuitos Analógicos.](https://raw.githubusercontent.com/aseic/assets/master/revision_curricular/docs/informe_final_ceda/anexos/9.Propuesta_del_Área_Académica_Ingeniería_en_Computadores_a_la_Escuela_de_Ingeniería_Electrónica.pdf)
-10. [Análisis de la eliminación de los cursos EL3212 y EL3213 por EIE.](https://raw.githubusercontent.com/aseic/assets/master/revision_curricular/docs/informe_final_ceda/anexos/10.220428_Análisis_EL3212_y_EL3213.pdf)
+10. [Análisis de la eliminación de los cursos EL3212 y EL3213 por EIE.](https://raw.githubusercontent.com/aseic/assets/master/revision_curricular/docs/informe_final_ceda/anexos/10.220428_Análisis_EL3212_y_EL3213_(1).pdf)
 11. [Propuesta de eliminación del curso EL2206 por CE.](https://raw.githubusercontent.com/aseic/assets/master/revision_curricular/docs/informe_final_ceda/anexos/11.Propuesta_eliminación_curso_EL2206_Laboratorio_de_Elementos_Activos.pdf)
 12. [Argumentos de Electrónica sobre la eliminación del EL2206.](https://raw.githubusercontent.com/aseic/assets/master/revision_curricular/docs/informe_final_ceda/anexos/12.Presentation_EIE_sobre_eliminación_LabActivos.pdf)
 13. [Eliminación de EL4703 por CE.](https://raw.githubusercontent.com/aseic/assets/master/revision_curricular/docs/informe_final_ceda/anexos/13.Propuesta_eliminación_curso_EL4703-Señales_y_Sistemas-2.pdf)
