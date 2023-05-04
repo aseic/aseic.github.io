@@ -12,7 +12,7 @@ La Junta Directiva para el año 2022 se conforma por las siguientes personas:
 - [Daniela Brenes Otárola](https://t.me/dani0805) (Secretaría de Divulgación y proyección tecnológica)
 - [Johnny Zaet Agüero Sandí](https://t.me/johnny_zaet08) (Secretaría de bienestar estudiantil)
 - [Ignacio Vargas Campos](https://t.me/zkwinkle) (Vocalía 1)
-- [Jimena León](https://t.me/mlelnla) (Vocalía 2)
+- [Jimena León Huertas](https://t.me/mlelnla) (Vocalía 2)
 
 ### Fiscalía
 - [David Rafael Azofeifa Herrera](https://t.me/DavidAzoherra)
