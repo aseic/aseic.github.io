@@ -21,7 +21,7 @@ La Junta Directiva para el año 2022 se conforma por las siguientes personas:
 - [Viviana Villalobos Valverde](https://t.me/Vivi1007)
 - [Alejandro José Soto Chacón](https://t.me/soto3442)
 - [Johnny Zaet Agüero Sandí](https://t.me/johnny_zaet08)
-- [Jorge Luis Guillén Campos](https://t.me/@j_guillen)
+- [Jorge Luis Guillén Campos](https://t.me/j_guillen)
 
 ### Suplentes
 - [Fabián Montero Villalobos](https://t.me/fabianmv)
