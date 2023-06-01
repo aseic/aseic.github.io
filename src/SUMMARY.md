@@ -2,7 +2,7 @@
 
 - [Inicio](aseic.md)
 - [Contribuir](contribuciones.md)
-- [Herramienta Nuevo Plan de Estudios](https://aseic.azoherra.com/)
+- [Herramienta Nuevo Plan de Estudios](herramienta_plan.md)
 - [Revisión de malla curricular](revision_curricular/timeline.md)
     - [Glosario](revision_curricular/glosario.md)
     - [Propuesta para la actualización curricular](revision_curricular/propuesta_ce.md)
