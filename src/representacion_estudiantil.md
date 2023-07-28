@@ -24,7 +24,7 @@ La Junta Directiva para el año 2022 se conforma por las siguientes personas:
 - [Jorge Luis Guillén Campos](https://t.me/j_guillen)
 
 ### Suplentes
-- [Fabián Montero Villalobos](https://t.me/fabianmv)
+- [Fabián Montero Villalobos](https://t.me/fabianmontero)
 - [Alejandro Díaz Pereira](https://t.me/adiazp)
 - [Ignacio Vargas Campos](https://t.me/zkwinkle)
 - [Gabs Chaves León](https://t.me/gachle)
