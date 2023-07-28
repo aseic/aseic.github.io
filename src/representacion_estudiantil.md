@@ -4,7 +4,7 @@
 La Junta Directiva para el año 2022 se conforma por las siguientes personas:
 
 - [Viviana Villalobos Valverde](https://t.me/Vivi1007) (Presidencia)
-- [Fabián Montero Villalobos](https://t.me/fabianmv) (Vicepresidencia)
+- [Fabián Montero Villalobos](https://t.me/fabianmontero) (Vicepresidencia)
 - [Ignacio Grané Rojas](https://t.me/Ignaciograne) (Secretaría general)
 - [Alejandro Díaz Pereira](https://t.me/adiazp) (Secretaría de Finanzas)
 - [Alejandro José Soto Chacón](https://t.me/soto3442) (Secretaría de Asunto Académicos)
