@@ -3,13 +3,13 @@
 ## Junta Directiva
 La Junta Directiva para el año 2022 se conforma por las siguientes personas:
 
-- [Viviana Villalobos Valverde](https://t.me/Vivi1007) (Presidencia)
+- [Viviana Villalobos Valverde](https://t.me/vivi79Villalobos) (Presidencia)
 - [Fabián Montero Villalobos](https://t.me/fabianmontero) (Vicepresidencia)
 - [Ignacio Grané Rojas](https://t.me/Ignaciograne) (Secretaría general)
 - [Alejandro Díaz Pereira](https://t.me/adiazp) (Secretaría de Finanzas)
 - [Alejandro José Soto Chacón](https://t.me/soto3442) (Secretaría de Asunto Académicos)
 - [Fátima Alicia Leiva Chinchilla](https://t.me/Faleiva) (Secretaría de Cultura y Deporte)
-- [Daniela Brenes Otárola](https://t.me/dani0805) (Secretaría de Divulgación y proyección tecnológica)
+- [Daniela Brenes Otárola](https://t.me/dani0805) (Secretaría de Divulgación y Proyección Tecnológica)
 - [Johnny Zaet Agüero Sandí](https://t.me/johnny_zaet08) (Secretaría de bienestar estudiantil)
 - [Ignacio Vargas Campos](https://t.me/zkwinkle) (Vocalía 1)
 - [Jimena León Huertas](https://t.me/mlelnla) (Vocalía 2)
