@@ -7,7 +7,7 @@ La Junta Directiva para el año 2023 se conforma por las siguientes personas:
 - [Fabián Montero Villalobos](https://t.me/fabianmontero) (Vicepresidencia)
 - [Ignacio Grané Rojas](https://t.me/Ignaciograne) (Secretaría General)
 - [Alejandro Díaz Pereira](https://t.me/adiazp) (Secretaría de Finanzas)
-- [Ignacio Vargas Campos](https://t.me/zkwinkle) (Secretaría de Asunto Académicos i.a.)
+- [Ignacio Vargas Campos](https://t.me/zkwinkle) (Secretaría de Asuntos Académicos i.a.)
 - [Fátima Alicia Leiva Chinchilla](https://t.me/Faleiva) (Secretaría de Cultura y Deporte)
 - [Daniela Brenes Otárola](https://t.me/dani0805) (Secretaría de Divulgación y Proyección Tecnológica)
 - [Johnny Zaet Agüero Sandí](https://t.me/johnny_zaet08) (Secretaría de Bienestar Estudiantil)
